@@ -1,0 +1,11 @@
+{
+  "Company": "Whisky-Lovers Company",
+  "Country": "JP",
+  "LastName": "Suzuki",
+  "FirstName": "Toru",
+  "Email": "suzuki.toru.001@canon-its.co.jp",
+  "Edition": "Enterprise",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
